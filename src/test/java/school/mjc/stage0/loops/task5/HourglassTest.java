@@ -7,7 +7,8 @@ class HourglassTest extends BaseIOTest {
 
     @Test
     void printHourglassOfGivenSizePrintsHourglass() {
-        String expected = "88888\n" +
+        String expected =
+                "88888\n" +
                 " 888 \n" +
                 "  8  \n" +
                 " 888 \n" +
